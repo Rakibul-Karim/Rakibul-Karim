@@ -16,6 +16,6 @@ B.Sc. Student, Department of Materials and Metallurgical Engineering, CUET
 - Git & GitHub
 
 ## Connect with Me
-- LinkedIn: (https://www.linkedin.com/in/rakibul-karim)
+- LinkedIn: [Rakibul Karim](https://www.linkedin.com/in/rakibul-karim)
 - ORCID: (https://orcid.org/0009-0000-7002-8197)
 - ResearchGate: (https://www.researchgate.net/profile/Rakibul-Karim?ev=hdr_xprf)
