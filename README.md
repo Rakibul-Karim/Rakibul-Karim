@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Rakibul Karim 
 
-<!--
-**Rakibul-Karim/Rakibul-Karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+B.Sc. Student, Department of Materials and Metallurgical Engineering, CUET
 
-Here are some ideas to get you started:
+ Interested in:
+- Materials Science
+- Computational Materials Science
+- Density Functional Theory (DFT)
+- Artificial Intelligence for Materials Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Learning
+- Python
+- MATLAB
+- C++
+- Git & GitHub
+
+## Connect with Me
+- LinkedIn: (https://www.linkedin.com/in/rakibul-karim)
+- ORCID: (https://orcid.org/0009-0000-7002-8197)
+- ResearchGate: (https://www.researchgate.net/profile/Rakibul-Karim?ev=hdr_xprf)
